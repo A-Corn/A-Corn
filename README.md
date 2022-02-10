@@ -8,4 +8,3 @@
 - 📫 How to reach me: Corneliusamir@gmail.com linkedin.com/in/amir-c-1aa06013b
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have way too many hobbies. (ask me aboiut them)
--->
