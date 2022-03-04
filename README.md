@@ -1,4 +1,8 @@
-### Hello, Im Amir 👋
+## Hey 👋, I'm [Amir Cornelius!](https://github.com/iampavangandhi/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/a-corn0224/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]()
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Web Fundamentals.
