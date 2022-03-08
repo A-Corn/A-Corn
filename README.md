@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]()
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my web portfolio!
 - 🌱 I’m currently learning Web Fundamentals.
 - 👯 I’m looking to collaborate on Front end web projects.
 - 🤔 I’m looking for help with user optimization for mobile users.
