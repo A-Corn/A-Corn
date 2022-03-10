@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on my web portfolio!
-- 🌱 I’m currently learning Web Python.
+- 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on Front end web projects.
 - 🤔 I’m looking for help with user optimization for mobile users.
 - 💬 Ask me about ...
