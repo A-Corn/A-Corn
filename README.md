@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Neo Bot**
 
-- 🌱 I’m currently learning **Python, MySQL, Flask, and AJAX**
+- 🌱 I’m currently learning **Python, MySQL, Flask, Django, and AJAX**
 
 - 💬 Ask me about **Why I want to make a career change.**
 
