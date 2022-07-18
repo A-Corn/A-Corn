@@ -6,7 +6,7 @@ Software engineer
 
 * 🌍  I'm based in New York
 * 🖥️  See my portfolio at [My Portfolio](http://www.a-corn.dev/index.html) 
-* 🚀  I'm currently working on A Web app for developers to colab on projects 
+* 🚀  I'm currently working on A Web app for developers to collaborate on projects 
 * 🧠  I'm learning MERN 
 * 🤝  I'm open to collaborating on Flask applications
 
